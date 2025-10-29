@@ -1,2 +1,2 @@
-// Environment variable configurations
+// src/config/env.js
 require('dotenv').config();
